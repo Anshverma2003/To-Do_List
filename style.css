@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+    color:#F0E161;
+}
+.input-group
+{
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+.add
+{
+    margin-top: 3rem;
+}
+p
+{
+    
+    font-size: 2rem;
+    margin-left: 12rem;
+    color:#F0E161;
+}
+#userInput
+{
+    margin-top: 3rem;
+    margin-bottom: 3em;
+}
+
+
+.clear_all
+{
+    position: relative;
+    left: 44.46rem;
+    /* margin-top: 0.5rem; */
+}
+.text_clear_all
+{
+    position: relative;
+    left: 12rem;
+    border-radius: 15%;
+    border-color: #F0E161;
+    background-color: white;
+}
+.text_clear_all:hover
+{
+    background-color: gold;
+}
+.darkmode
+{
+    position: relative;
+    margin-left: 82rem;
+    bottom: 3rem;
+    color: white;
+}
+
+.lightmode
+{
+    position: relative;
+    margin-left: 82rem;
+    bottom: 3rem;
+    color: white;
+}
