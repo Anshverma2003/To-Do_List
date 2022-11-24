@@ -1,3 +1,7 @@
+.color
+{
+    background-color: #1a1a60be;
+}
 h1{
     text-align: center;
     margin-top: 20px;
@@ -52,10 +56,14 @@ p
     color: white;
 }
 
-.lightmode
+/* .lightmode
 {
     position: relative;
     margin-left: 82rem;
     bottom: 3rem;
     color: white;
+} */
+.bodydarkmode
+{
+    background-color: black;
 }
