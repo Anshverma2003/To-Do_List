@@ -59,11 +59,11 @@ function clearall() {
 
 function darkmode()
 {
-    document.querySelector("body").style.backgroundColor="black";
+    document.querySelector("body").classList.toggle("bodydarkmode");
 }
 
 
-function lightmode()
-{
-    document.querySelector("body").style.backgroundColor="#1a1a60be";
-}
+// function lightmode()
+// {
+//     document.querySelector("body").style.backgroundColor="#1a1a60be";
+// }
